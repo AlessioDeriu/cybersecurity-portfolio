@@ -2,8 +2,8 @@
 
 ## About Me
 
-Aspiring cybersecurity professional focused on risk analysis, system hardening, and security assessment.  
-Currently building hands-on experience through structured security audits, technical labs, and compliance evaluations.
+Aspiring cybersecurity professional with a focus on risk analysis, system hardening, and security assessment.  
+Currently building hands-on experience through structured security audits, technical labs, and compliance evaluations, with progressive specialization toward offensive security and security analysis.
 
 ---
 
@@ -21,17 +21,18 @@ Currently building hands-on experience through structured security audits, techn
 ## Projects
 
 ### 1. Botium Toys – Internal Security Audit
+
 Internal audit conducted using NIST CSF principles.  
 Includes controls assessment and compliance evaluation (PCI-DSS, GDPR, SOC).
 
-Repository:
+Repository:  
 👉 [Botium Toys Internal Security Audit](https://github.com/AlessioDeriu/botium-toys-internal-security-audit)
 
-Key Skills Demonstrated:
-- Risk Identification
-- Control Gap Analysis
-- Regulatory Compliance Assessment
-- Security Documentation
+**Key Skills Demonstrated**
+- Risk Identification  
+- Control Gap Analysis  
+- Regulatory Compliance Assessment  
+- Security Documentation  
 
 ---
 
@@ -41,9 +42,3 @@ Key Skills Demonstrated:
 - Networking & Traffic Analysis  
 - Incident Detection Fundamentals  
 - Security Monitoring Concepts  
-
----
-
-## Goal
-
-Build a strong foundation in cybersecurity with progressive specialization toward offensive security and security analysis roles.
