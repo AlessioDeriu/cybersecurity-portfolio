@@ -27,6 +27,12 @@ Includes controls assessment and compliance evaluation (PCI-DSS, GDPR, SOC).
 Repository:
 👉 [Botium Toys Internal Security Audit](https://github.com/AlessioDeriu/botium-toys-internal-security-audit)
 
+Key Skills Demonstrated:
+- Risk Identification
+- Control Gap Analysis
+- Regulatory Compliance Assessment
+- Security Documentation
+
 ---
 
 ## Current Learning Path
