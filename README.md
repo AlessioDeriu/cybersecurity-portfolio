@@ -25,7 +25,7 @@ Internal audit conducted using NIST CSF principles.
 Includes controls assessment and compliance evaluation (PCI-DSS, GDPR, SOC).
 
 Repository:
-👉 [Botium Toys Internal Security Audit](https://github.com/TUO_USERNAME/botium-toys-internal-security-audit)
+👉 [Botium Toys Internal Security Audit](https://github.com/AlessioDeriu/botium-toys-internal-security-audit)
 
 ---
 
